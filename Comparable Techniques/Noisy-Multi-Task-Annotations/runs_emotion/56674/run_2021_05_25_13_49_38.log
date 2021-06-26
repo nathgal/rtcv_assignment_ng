@@ -1,0 +1,18 @@
+2021-05-25 13:49:38,689 INFO Let the games begin
+2021-05-25 13:51:35,532 INFO Step 3/ Epoch 1]  loss_exp: 1.7509  Time/Image: 0.0101
+2021-05-25 13:51:35,563 INFO Step 3/ Epoch 1]  loss_va: 1.0246  Time/Image: 0.0101
+2021-05-25 13:51:49,504 INFO acc:38.6245110821382
+2021-05-25 13:53:55,190 INFO Step 7/ Epoch 2]  loss_exp: 1.7013  Time/Image: 0.0070
+2021-05-25 13:53:55,191 INFO Step 7/ Epoch 2]  loss_va: 0.9650  Time/Image: 0.0070
+2021-05-25 13:54:07,597 INFO acc:38.6245110821382
+2021-05-25 13:54:11,496 INFO [*] models saved.
+2021-05-25 13:55:04,359 INFO Step 11/ Epoch 3]  loss_exp: 1.5466  Time/Image: 0.0059
+2021-05-25 13:55:04,360 INFO Step 11/ Epoch 3]  loss_va: 0.7326  Time/Image: 0.0059
+2021-05-25 13:55:13,250 INFO acc:44.98044328552803
+2021-05-25 13:56:23,162 INFO Step 15/ Epoch 4]  loss_exp: 1.3299  Time/Image: 0.0056
+2021-05-25 13:56:23,164 INFO Step 15/ Epoch 4]  loss_va: 0.5992  Time/Image: 0.0056
+2021-05-25 13:56:36,652 INFO acc:47.49022164276401
+2021-05-25 13:56:41,154 INFO [*] models saved.
+2021-05-25 13:57:50,773 INFO Step 19/ Epoch 5]  loss_exp: 1.3877  Time/Image: 0.0054
+2021-05-25 13:57:50,774 INFO Step 19/ Epoch 5]  loss_va: 0.4586  Time/Image: 0.0054
+2021-05-25 13:58:03,632 INFO acc:52.053455019556715

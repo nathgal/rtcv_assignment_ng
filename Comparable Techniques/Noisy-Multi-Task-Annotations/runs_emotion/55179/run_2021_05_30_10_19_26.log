@@ -1,0 +1,109 @@
+2021-05-30 10:19:26,711 INFO Let the games begin
+2021-05-30 10:19:57,555 INFO Step 3/ Epoch 1]  loss_exp: 1.6155  Time/Image: 0.0010
+2021-05-30 10:19:57,556 INFO Step 3/ Epoch 1]  loss_va: 0.9862  Time/Image: 0.0010
+2021-05-30 10:20:01,958 INFO acc:38.6245110821382
+2021-05-30 10:20:21,077 INFO Step 7/ Epoch 2]  loss_exp: 1.6585  Time/Image: 0.0010
+2021-05-30 10:20:21,077 INFO Step 7/ Epoch 2]  loss_va: 0.9059  Time/Image: 0.0010
+2021-05-30 10:20:25,298 INFO acc:38.6245110821382
+2021-05-30 10:20:25,602 INFO [*] models saved.
+2021-05-30 10:20:45,778 INFO Step 11/ Epoch 3]  loss_exp: 1.6447  Time/Image: 0.0010
+2021-05-30 10:20:45,786 INFO Step 11/ Epoch 3]  loss_va: 0.8854  Time/Image: 0.0010
+2021-05-30 10:20:49,924 INFO acc:39.3089960886571
+2021-05-30 10:21:09,036 INFO Step 15/ Epoch 4]  loss_exp: 1.6093  Time/Image: 0.0010
+2021-05-30 10:21:09,037 INFO Step 15/ Epoch 4]  loss_va: 0.6260  Time/Image: 0.0010
+2021-05-30 10:21:13,354 INFO acc:44.91525423728814
+2021-05-30 10:21:13,658 INFO [*] models saved.
+2021-05-30 10:21:32,944 INFO Step 19/ Epoch 5]  loss_exp: 1.3652  Time/Image: 0.0010
+2021-05-30 10:21:32,945 INFO Step 19/ Epoch 5]  loss_va: 0.5629  Time/Image: 0.0010
+2021-05-30 10:21:37,180 INFO acc:47.327249022164274
+2021-05-30 10:22:16,109 INFO Step 23/ Epoch 6]  loss_exp: 1.6124  Time/Image: 0.0074
+2021-05-30 10:22:16,109 INFO Step 23/ Epoch 6]  loss_va: 0.4506  Time/Image: 0.0074
+2021-05-30 10:22:16,110 INFO Step 23/ Epoch 6]  loss_gan: 1.4499  Time/Image: 0.0074
+2021-05-30 10:22:16,111 INFO Step 23/ Epoch 6]  G_total_loss: 3.5130  Time/Image: 0.0074
+2021-05-30 10:22:16,111 INFO Step 23/ Epoch 6]  loss_D_gan: 1.2884  Time/Image: 0.0000
+2021-05-30 10:22:20,269 INFO acc:52.57496740547588
+2021-05-30 10:22:20,675 INFO [*] models saved.
+2021-05-30 10:24:04,465 INFO Step 27/ Epoch 7]  loss_exp: 1.4213  Time/Image: 0.0073
+2021-05-30 10:24:04,466 INFO Step 27/ Epoch 7]  loss_va: 0.3604  Time/Image: 0.0073
+2021-05-30 10:24:04,467 INFO Step 27/ Epoch 7]  loss_gan: 2.4092  Time/Image: 0.0073
+2021-05-30 10:24:04,468 INFO Step 27/ Epoch 7]  G_total_loss: 4.1909  Time/Image: 0.0073
+2021-05-30 10:24:04,470 INFO Step 27/ Epoch 7]  loss_D_gan: 1.2393  Time/Image: 0.0000
+2021-05-30 10:24:08,806 INFO acc:55.932203389830505
+2021-05-30 10:25:59,214 INFO Step 31/ Epoch 8]  loss_exp: 1.6449  Time/Image: 0.0087
+2021-05-30 10:25:59,215 INFO Step 31/ Epoch 8]  loss_va: 0.4546  Time/Image: 0.0087
+2021-05-30 10:25:59,216 INFO Step 31/ Epoch 8]  loss_gan: 2.1327  Time/Image: 0.0087
+2021-05-30 10:25:59,217 INFO Step 31/ Epoch 8]  G_total_loss: 4.2321  Time/Image: 0.0087
+2021-05-30 10:25:59,218 INFO Step 31/ Epoch 8]  loss_D_gan: 1.3193  Time/Image: 0.0000
+2021-05-30 10:26:04,860 INFO acc:58.311603650586704
+2021-05-30 10:26:05,380 INFO [*] models saved.
+2021-05-30 10:28:07,469 INFO Step 35/ Epoch 9]  loss_exp: 1.5960  Time/Image: 0.0080
+2021-05-30 10:28:07,470 INFO Step 35/ Epoch 9]  loss_va: 0.4137  Time/Image: 0.0080
+2021-05-30 10:28:07,471 INFO Step 35/ Epoch 9]  loss_gan: 1.7034  Time/Image: 0.0080
+2021-05-30 10:28:07,472 INFO Step 35/ Epoch 9]  G_total_loss: 3.7131  Time/Image: 0.0080
+2021-05-30 10:28:07,473 INFO Step 35/ Epoch 9]  loss_D_gan: 1.2989  Time/Image: 0.0000
+2021-05-30 10:28:13,162 INFO acc:58.735332464146026
+2021-05-30 10:30:04,682 INFO Step 39/ Epoch 10]  loss_exp: 1.6352  Time/Image: 0.0076
+2021-05-30 10:30:04,682 INFO Step 39/ Epoch 10]  loss_va: 0.3296  Time/Image: 0.0076
+2021-05-30 10:30:04,683 INFO Step 39/ Epoch 10]  loss_gan: 1.4409  Time/Image: 0.0076
+2021-05-30 10:30:04,684 INFO Step 39/ Epoch 10]  G_total_loss: 3.4057  Time/Image: 0.0076
+2021-05-30 10:30:04,685 INFO Step 39/ Epoch 10]  loss_D_gan: 1.4299  Time/Image: 0.0000
+2021-05-30 10:30:09,493 INFO acc:60.59322033898305
+2021-05-30 10:30:09,923 INFO [*] models saved.
+2021-05-30 10:31:57,149 INFO Step 43/ Epoch 11]  loss_exp: 1.5659  Time/Image: 0.0077
+2021-05-30 10:31:57,149 INFO Step 43/ Epoch 11]  loss_va: 0.2655  Time/Image: 0.0077
+2021-05-30 10:31:57,150 INFO Step 43/ Epoch 11]  loss_gan: 2.3365  Time/Image: 0.0077
+2021-05-30 10:31:57,151 INFO Step 43/ Epoch 11]  G_total_loss: 4.1678  Time/Image: 0.0077
+2021-05-30 10:31:57,152 INFO Step 43/ Epoch 11]  loss_D_gan: 1.2222  Time/Image: 0.0000
+2021-05-30 10:32:02,615 INFO acc:53.84615384615385
+2021-05-30 10:33:50,722 INFO Step 47/ Epoch 12]  loss_exp: 1.5807  Time/Image: 0.0081
+2021-05-30 10:33:50,723 INFO Step 47/ Epoch 12]  loss_va: 0.2549  Time/Image: 0.0081
+2021-05-30 10:33:50,724 INFO Step 47/ Epoch 12]  loss_gan: 0.5234  Time/Image: 0.0081
+2021-05-30 10:33:50,725 INFO Step 47/ Epoch 12]  G_total_loss: 2.3589  Time/Image: 0.0081
+2021-05-30 10:33:50,726 INFO Step 47/ Epoch 12]  loss_D_gan: 1.6143  Time/Image: 0.0000
+2021-05-30 10:33:55,404 INFO acc:54.72620599739244
+2021-05-30 10:33:55,846 INFO [*] models saved.
+2021-05-30 10:35:39,796 INFO Step 51/ Epoch 13]  loss_exp: 1.5526  Time/Image: 0.0075
+2021-05-30 10:35:39,796 INFO Step 51/ Epoch 13]  loss_va: 0.2458  Time/Image: 0.0075
+2021-05-30 10:35:39,797 INFO Step 51/ Epoch 13]  loss_gan: 1.5963  Time/Image: 0.0075
+2021-05-30 10:35:39,797 INFO Step 51/ Epoch 13]  G_total_loss: 3.3946  Time/Image: 0.0075
+2021-05-30 10:35:39,798 INFO Step 51/ Epoch 13]  loss_D_gan: 1.2239  Time/Image: 0.0000
+2021-05-30 10:35:44,194 INFO acc:60.43024771838331
+2021-05-30 10:37:32,237 INFO Step 55/ Epoch 14]  loss_exp: 1.4744  Time/Image: 0.0105
+2021-05-30 10:37:32,238 INFO Step 55/ Epoch 14]  loss_va: 0.2271  Time/Image: 0.0105
+2021-05-30 10:37:32,240 INFO Step 55/ Epoch 14]  loss_gan: 1.9571  Time/Image: 0.0105
+2021-05-30 10:37:32,241 INFO Step 55/ Epoch 14]  G_total_loss: 3.6586  Time/Image: 0.0105
+2021-05-30 10:37:32,243 INFO Step 55/ Epoch 14]  loss_D_gan: 1.1415  Time/Image: 0.0000
+2021-05-30 10:37:40,292 INFO acc:61.408083441981745
+2021-05-30 10:37:40,786 INFO [*] models saved.
+2021-05-30 10:39:41,382 INFO Step 59/ Epoch 15]  loss_exp: 1.5023  Time/Image: 0.0089
+2021-05-30 10:39:41,383 INFO Step 59/ Epoch 15]  loss_va: 0.2455  Time/Image: 0.0089
+2021-05-30 10:39:41,384 INFO Step 59/ Epoch 15]  loss_gan: 1.1075  Time/Image: 0.0089
+2021-05-30 10:39:41,385 INFO Step 59/ Epoch 15]  G_total_loss: 2.8553  Time/Image: 0.0089
+2021-05-30 10:39:41,386 INFO Step 59/ Epoch 15]  loss_D_gan: 1.3756  Time/Image: 0.0000
+2021-05-30 10:39:47,168 INFO acc:67.27509778357236
+2021-05-30 10:41:46,610 INFO Step 63/ Epoch 16]  loss_exp: 1.5713  Time/Image: 0.0091
+2021-05-30 10:41:46,611 INFO Step 63/ Epoch 16]  loss_va: 0.2260  Time/Image: 0.0091
+2021-05-30 10:41:46,613 INFO Step 63/ Epoch 16]  loss_gan: 1.1630  Time/Image: 0.0091
+2021-05-30 10:41:46,613 INFO Step 63/ Epoch 16]  G_total_loss: 2.9603  Time/Image: 0.0091
+2021-05-30 10:41:46,614 INFO Step 63/ Epoch 16]  loss_D_gan: 1.3193  Time/Image: 0.0000
+2021-05-30 10:41:52,427 INFO acc:68.15514993481095
+2021-05-30 10:41:52,916 INFO [*] models saved.
+2021-05-30 10:43:44,627 INFO Step 67/ Epoch 17]  loss_exp: 1.3922  Time/Image: 0.0083
+2021-05-30 10:43:44,628 INFO Step 67/ Epoch 17]  loss_va: 0.2088  Time/Image: 0.0083
+2021-05-30 10:43:44,629 INFO Step 67/ Epoch 17]  loss_gan: 1.7890  Time/Image: 0.0083
+2021-05-30 10:43:44,630 INFO Step 67/ Epoch 17]  G_total_loss: 3.3900  Time/Image: 0.0083
+2021-05-30 10:43:44,630 INFO Step 67/ Epoch 17]  loss_D_gan: 1.2171  Time/Image: 0.0000
+2021-05-30 10:43:50,011 INFO acc:68.64406779661017
+2021-05-30 10:45:39,578 INFO Step 71/ Epoch 18]  loss_exp: 1.4688  Time/Image: 0.0086
+2021-05-30 10:45:39,579 INFO Step 71/ Epoch 18]  loss_va: 0.2468  Time/Image: 0.0086
+2021-05-30 10:45:39,579 INFO Step 71/ Epoch 18]  loss_gan: 1.5362  Time/Image: 0.0086
+2021-05-30 10:45:39,580 INFO Step 71/ Epoch 18]  G_total_loss: 3.2518  Time/Image: 0.0086
+2021-05-30 10:45:39,580 INFO Step 71/ Epoch 18]  loss_D_gan: 1.2157  Time/Image: 0.0000
+2021-05-30 10:45:45,479 INFO acc:70.76271186440678
+2021-05-30 10:45:46,043 INFO [*] models saved.
+2021-05-30 10:47:33,966 INFO Step 75/ Epoch 19]  loss_exp: 1.4408  Time/Image: 0.0076
+2021-05-30 10:47:33,967 INFO Step 75/ Epoch 19]  loss_va: 0.1814  Time/Image: 0.0076
+2021-05-30 10:47:33,968 INFO Step 75/ Epoch 19]  loss_gan: 0.7461  Time/Image: 0.0076
+2021-05-30 10:47:33,968 INFO Step 75/ Epoch 19]  G_total_loss: 2.3683  Time/Image: 0.0076
+2021-05-30 10:47:33,969 INFO Step 75/ Epoch 19]  loss_D_gan: 1.5105  Time/Image: 0.0000
+2021-05-30 10:47:38,354 INFO acc:70.82790091264667

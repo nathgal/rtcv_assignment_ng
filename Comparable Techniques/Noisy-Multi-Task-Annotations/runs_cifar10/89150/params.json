@@ -1,0 +1,23 @@
+{
+    "batch_size": 128,
+    "fc_layer": 512,
+    "gan_start_epoch": 0,
+    "img_size": 32,
+    "isTrain": true,
+    "iter_D": 2,
+    "iter_G": 1,
+    "lambda_class": 1.0,
+    "lambda_gan": 0.8,
+    "lambda_sx": 1.0,
+    "lambda_sxz": 1.0,
+    "lambda_sz0": 1.0,
+    "lambda_sz1": 1.0,
+    "log_step": 200,
+    "lr": 0.0001,
+    "noise_dim": 100,
+    "num_epoch": 100000,
+    "root": "datasets/cifar10/cifar-10-batches-py",
+    "save_dir": "runs_cifar10",
+    "save_step": 400,
+    "val_step": 200
+}

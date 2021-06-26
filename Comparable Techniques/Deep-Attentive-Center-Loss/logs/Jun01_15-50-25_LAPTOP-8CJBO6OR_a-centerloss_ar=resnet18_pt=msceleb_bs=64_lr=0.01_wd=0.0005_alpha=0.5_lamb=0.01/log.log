@@ -1,0 +1,26 @@
+[>] Configuration ----------------------------------------------
+{ 'alpha': 0.5,
+  'arch': 'resnet18',
+  'batch_size': 64,
+  'deterministic': False,
+  'epochs': 60,
+  'lamb': 0.01,
+  'log_dir': 'logs',
+  'lr': 0.01,
+  'momentum': 0.9,
+  'pretrained': 'msceleb',
+  'root_dir': 'C:/Users/natha/Desktop/RAF-DB/basic/Image/',
+  'save_path': 'logs\\Jun01_15-50-25_LAPTOP-8CJBO6OR_a-centerloss_ar=resnet18_pt=msceleb_bs=64_lr=0.01_wd=0.0005_alpha=0.5_lamb=0.01',
+  'seed': 0,
+  'weight_decay': 0.0005,
+  'workers': 4}
+[>] Loading dataset --------------------------------------------
+Train set size: 12271
+Validation set size: 3068
+[*] Loaded dataset!
+[>] Model ------------------------------------------------------
+[!] initializing model with "msceleb" weights ...
+[*] Model initialized!
+[>] Begin Training ---------------------------------------------
+[-] TRAIN [001/60] | L=1.0929 | Ls=0.9565 | Lsc=13.6446 | acc=0.6643 | rec=0.4536 | f1=0.4666 | aucpr=0.5083 | aucroc=0.8443
+[-] VALID [001/60] | L=0.7180 | Ls=0.6324 | Lsc=8.5550 | acc=0.7839 | rec=0.6321 | f1=0.6310 | aucpr=0.6795 | aucroc=0.9318
